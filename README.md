@@ -27,7 +27,7 @@ The key questions we would like to answer are:
 │  ├──[]()   
 │  └──[]()      
 │    
-|├──[Monte Carlo Integration R script](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)    
+|├──[query details](https://github.com/leta199/SQL-Trading-Analytics/tree/main/query_details)    
 │  
 |└──[README](https://github.com/leta199/Monte-Carlo-Integration/blob/main/README.md)
   
