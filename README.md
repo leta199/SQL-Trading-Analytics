@@ -29,7 +29,7 @@ The key questions we would like to answer are:
 │    
 |├──[query details](https://github.com/leta199/SQL-Trading-Analytics/tree/main/query_details)    
 │  
-|└──[README](https://github.com/leta199/Monte-Carlo-Integration/blob/main/README.md)
+|└──[README](https://github.com/leta199/SQL-Trading-Analytics/blob/main/README.md)
   
 ## AUTHORS   
 [leta199]
