@@ -23,9 +23,9 @@ The key questions we would like to answer are:
 
 ## PROJECT STRUCTURE           
 |[SQL Trading Analytics](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
-|├──[theoretical_solution](https://github.com/leta199/SQL-Trading-Analytics/tree/main/database_files)  
-│  ├──[Monte Carlo Integration - Integral](https://github.com/leta199/Monte-Carlo-Integration/blob/main/theoretical_solution/Monte_Carlo_Integration-%20integral.pdf)   
-│  └──[Monte Carlo Integration - Summation](https://github.com/leta199/Monte-Carlo-Integration/blob/main/theoretical_solution/Monte_Carlo_Integration-%20summation.pdf)      
+|├──[database files](https://github.com/leta199/SQL-Trading-Analytics/tree/main/database_files)  
+│  ├──[]()   
+│  └──[]()      
 │    
 |├──[Monte Carlo Integration R script](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)    
 │  
