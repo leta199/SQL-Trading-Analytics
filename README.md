@@ -26,8 +26,10 @@ For this query  portfolio managers for the various customers served by our stock
 
 <img width="657" height="262" alt="Image" src="https://github.com/user-attachments/assets/4feabd91-9b5f-42ff-8cff-bc41f97f6e33" />
 
-*Code analysis*
-
+*Code analysis*  
+We begin by selecting the fiels we would like to appear in our query.  
+In this query we selected `si.symbol` as our query has a join within it.  
+We 
 
 **QUERY #2**
 Management would like to investigate what countries have the most trading activity in the database of most recent transactions. They want to know which countries contribute most to our business’s operations in terms of number of stocks traded. This will help with initiatives in the future that will give priority sales to the customers in these countries to appreciate their frequent purchases and keep good customer relationships with the most active communities of people. 
