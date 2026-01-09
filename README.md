@@ -21,6 +21,7 @@ The key questions we would like to answer are:
 2) What are the most popular shares by quantity sold?
 
 
+
 ## PROJECT STRUCTURE           
 |[SQL Trading Analytics](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
 |├──[database files](https://github.com/leta199/SQL-Trading-Analytics/tree/main/database_files)  
