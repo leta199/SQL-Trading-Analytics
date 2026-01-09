@@ -32,6 +32,10 @@ For this query  portfolio managers for the various customers served by our stock
 **QUERY #2**
 Management would like to investigate what countries have the most trading activity in the database of most recent transactions. They want to know which countries contribute most to our business’s operations in terms of number of stocks traded. This will help with initiatives in the future that will give priority sales to the customers in these countries to appreciate their frequent purchases and keep good customer relationships with the most active communities of people. 
 
+<img width="654" height="182" alt="Image" src="https://github.com/user-attachments/assets/1405c3ee-c898-4526-9c6a-d1298e52bfda" />
+
+*Code Analysis* 
+
 ## PROJECT STRUCTURE           
 |[SQL Trading Analytics](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
 |├──[database files](https://github.com/leta199/SQL-Trading-Analytics/tree/main/database_files)  
