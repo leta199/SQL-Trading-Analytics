@@ -41,7 +41,9 @@ Management would like to investigate what countries have the most trading activi
 
 <img width="654" height="182" alt="Image" src="https://github.com/user-attachments/assets/1405c3ee-c898-4526-9c6a-d1298e52bfda" />
 
-*Code Analysis* 
+*Code Analysis*   
+For this query we begin by defining a common table expression (CTE) this allows us to use another named query as a reference in our main query.  
+`Common table expression` - 
 
 ## PROJECT STRUCTURE           
 |[SQL Trading Analytics](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
