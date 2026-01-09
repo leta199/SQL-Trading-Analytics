@@ -20,7 +20,9 @@ The key questions we would like to answer are:
 1) What stocks have historically had a higher than average opening, closing and high?
 2) What are the most popular shares by quantity sold?
 
+**QUERY #1**
 
+For this query  portfolio managers for the various customers served by our stock trading website would like to make the most amount of returns possible to maximize ROI for their clients. Many of their customers are also risk averse and therefore would like to be able to look closely at individual stock prices throughout the history of each stock and have a good way of knowing what stocks are riskier than other based on the opening, closing and high of each stock in comparison to all the stocks we offer on our trading platform. Therefore, they require that we make a Stock grade that indicates how each stock performs considering the opening, closing and high of each stock. This means that any stock that performs well below the average across all three metrics (opening, closing and high) will be greater risk and should be marked as such for clients to discuss whether to invest in the stock with their portfolio managers. 
 
 ## PROJECT STRUCTURE           
 |[SQL Trading Analytics](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
