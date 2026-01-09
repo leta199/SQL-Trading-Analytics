@@ -33,7 +33,8 @@ In this query we selected `si.symbol` as our query has a join within it.
 `Percentage of average openng price` - rounds to 2 decimal places how much each opening price of stock is of the average opening stock price concatanated with a % sign.  
 `Percentage of average closing price` - rounds to 2 decimal places how much each closing price of stock is of the average opening stock price concatanated with a % sign.  
 `Percentage of average high price`-rounds to 2 decimal places how much each high price of stock is of the average high stock price concatanated with a % sign.   
-`Case statement` - when our percentage of  opening, closing and high prices are above 90% of the average we will have a stock grade of "A". When our percentage of  opening, closing and high prices are above 50% but less than 90% of the average we will have a stcok grade of "B". Any other value of stock grade (less than 50%) is labelled "Greater risk".
+`Case statement` - when our percentage of  opening, closing and high prices are above 90% of the average we will have a stock grade of "A". When our percentage of  opening, closing and high prices are above 50% but less than 90% of the average we will have a stcok grade of "B". Any other value of stock grade (less than 50%) is labelled "Greater risk".  
+`Join on` - we then join on between the two tables we extract the information from.
 
 **QUERY #2**
 Management would like to investigate what countries have the most trading activity in the database of most recent transactions. They want to know which countries contribute most to our business’s operations in terms of number of stocks traded. This will help with initiatives in the future that will give priority sales to the customers in these countries to appreciate their frequent purchases and keep good customer relationships with the most active communities of people. 
