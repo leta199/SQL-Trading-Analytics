@@ -43,7 +43,9 @@ Management would like to investigate what countries have the most trading activi
 
 *Code Analysis*   
 For this query we begin by defining a common table expression (CTE) this allows us to use another named query as a reference in our main query.  
-`Common table expression` - 
+`Common table expression` - is called `num_stocks` and has the count of unique stocks from thetrasnactions table. we will reference it in our main query.  
+
+
 
 ## PROJECT STRUCTURE           
 |[SQL Trading Analytics](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
