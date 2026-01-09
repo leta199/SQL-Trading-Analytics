@@ -49,7 +49,8 @@ We select the fields we want to to list and begin with the field `country`.
 `Stocks of companies traded in` - using the `listaff` function allows us to list in 1 row each stock symbol traded in each country separted by a "," and oreder by symbol.  
 `Number of companies traded` -  the number of stocks traded for each country.  
 `Percentage of total number of companies traded` - divides the count of indicual stocks by the total stocks from our CTE converting into a percentage by multiplying by 100 and rounding to 2 decimal places and concatenating the percentage symbol "%".   
-`Number of stocks sold` - sums the quantity of stocks traded
+`Number of stocks sold` - sums the quantity of stocks traded.  
+We then use a `join` on for the tables address and transactions and a `cross join` with our CTE num_stocks. 
 
 
 
