@@ -40,6 +40,12 @@ In this query we selected `si.symbol` as our query has a join within it.
 FINAL INSIGHTS 
 <img width="881" height="378" alt="Image" src="https://github.com/user-attachments/assets/e5e4cdfa-b558-4b8e-b7c1-ae3934d23d7b" />
 
+
+Given the available stock histories when comparing these stocks against the overall opening, closing and high we can see that 3 out of 10 stocks we offer are of a higher risk i.e the opening, closing and high where 50 or below the average in 1 or more categories. This means that our customers will be unlikely to want to pick these stocks since they serially underperform compared to the other 7 stocks. As a result, they would rather stick to stocks of a higher grade such as A or B when selecting what stocks to but to improve their portfolio. 
+
+Additionally, as a stock trading tool company, we may want to investigate the variability in the stocks that we trade. We only offer 3 stocks of the highest grade  (A) therefore, we must look into offering stocks that have a higher grade and trade at higher prices closer the average.  Although acquiring stocks with higher opening, closing and highs will boost the average opening closing and high, stocks that have similar prices at opening, closing and high will mean that they will all be close to the same average and all get a high grade. As a result, our overall product offerings are less risky to customers and picking any stocks will guarantee high ROI when its time to sell regardless of what stocks the customer buys. 
+
+
 ### **QUERY #2**
 Management would like to investigate what countries have the most trading activity in the database of most recent transactions. They want to know which countries contribute most to our business’s operations in terms of number of stocks traded. This will help with initiatives in the future that will give priority sales to the customers in these countries to appreciate their frequent purchases and keep good customer relationships with the most active communities of people. 
 
@@ -59,6 +65,10 @@ We then use a `join` on for the tables address and transactions and a `cross joi
 
 FINAL INSIGHTS 
 <img width="899" height="215" alt="Image" src="https://github.com/user-attachments/assets/acc17049-dfcd-42fb-b83e-8b0878087ccf" />
+
+Based on the query we have carried out South Africa (SA) has the greater number of shares traded as well as the largest proportion companies traded  (57.14%). This indicates that South African clients are the most valuable and generate the greatest amount of traffic and revenue through our trading platform. As a result, we will provide priority trading to South African our clients to keep their high number of transactions. This will build customer loyalty since they get first picks on stocks at the fairest prices in the market. 
+
+Lastly, this query gives greater insight into the trading habits of people across countries. We can see that South Africa and Botswana trade the largest variety of companies and greatest quantity followed by Namibia in quantity. We will want to create initiatives that encourage customers from Egypt and Uganda to trade a greater number of stocks and more companies than just Google and Microsoft. This could be through initiatives such as better marketing to inform these customers of other stock options that fit their current portfolio through notifications and tailored advertisements. 
 
 ## PROJECT STRUCTURE           
 |[SQL Trading Analytics](https://github.com/leta199/Monte-Carlo-Integration/blob/main/Monte%20Carlo%20Integration.r)  
