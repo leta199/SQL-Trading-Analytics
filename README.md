@@ -7,12 +7,12 @@ This repository aims to:
 2) Understand underlying database structure 
 3) Analyse queries to gain deeper understanding of each line
 
-## HOW IT'S MADE 
-Languages used: R (version 4.5.1)    
-Environement: RStudio  
+## HOW IT'S MADE  
+Language used: SQL  
+Database: Oracle Autonomous Database  
 
-[![Language: R](https://img.shields.io/badge/Language-R-276DC3.svg?style=flat-square)](https://www.r-project.org/)
-[![Built with RStudio](https://img.shields.io/badge/IDE-RStudio-75AADB?style=for‐the‐badge&logo=rstudio&logoColor=white)](https://www.rstudio.com/)
+[![Language: SQL](https://img.shields.io/badge/Language-SQL-blue.svg?style=flat-square)]()
+[![Database: Oracle](https://img.shields.io/badge/Database-Oracle%20Autonomous%20DB-F80000.svg?style=flat-square&logo=oracle&logoColor=white)]()
 ![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
 
 ## METHODS AND TECHNIQUES    
