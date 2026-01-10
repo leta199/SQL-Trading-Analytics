@@ -1,5 +1,5 @@
 # SQL-Trading-Analytics  
-In the world of stock holdings, tracking information about these holders is off paramount importance. We can keep track of all of the trasnactions, current holdings, ratings etc in connected databases and we can xtract useful information from them using SQL queries. We will aim to answer the following business questions using  SQL queries to gain insight into our customers. 
+In the world of stock holdings, tracking information about these holders is off paramount importance. We can keep track of all of the transactions, current holdings, ratings etc in connected databases and we can extract useful information from them using SQL queries. We will aim to answer the following business questions using  SQL queries to gain insight into our customers. 
 
 This repository aims to:
 
@@ -19,6 +19,11 @@ Database: Oracle Autonomous Database
 The key questions we would like to answer are: 
 1) What stocks have historically had a higher than average opening, closing and high?
 2) What are the most popular shares by quantity sold?
+
+### DATA 
+For this query we began by definging the requirements for to keep track of our stock information. We define the logical structure of our database.  
+This information is broken into the following tables:  
+
 
 ### **QUERY #1**
 
