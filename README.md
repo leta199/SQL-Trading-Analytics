@@ -125,6 +125,9 @@ This query gives greater insight into the trading habits of people across countr
 │  └──[sql query](https://github.com/leta199/Trading-Analytics/blob/main/query_details/SQL_query.sql)   
 |  
 |└──[README](https://github.com/leta199/SQL-Trading-Analytics/blob/main/README.md)
-  
+
+# ACKNOWLEDGEMENT   
+Thank you to Dr Jean Nonnemaker for helping with the project in the creation of the database and necessary ddl. 
+
 ## AUTHORS   
 [leta199](https://github.com/leta199)
